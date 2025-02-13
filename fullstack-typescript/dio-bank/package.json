@@ -1,0 +1,12 @@
+{
+  "name": "dio-bank",
+  "version": "1.0.0",
+  "description": "just for study",
+  "license": "MIT",
+  "author": "Patrick Girardi",
+  "type": "commonjs",
+  "main": "app.ts",
+  "scripts": {
+    "test": "bun app.ts"
+  }
+}
